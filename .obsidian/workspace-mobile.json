@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "66a10b42fcd93848",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff803d618e948d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67feab4732021121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11/5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5"
+            }
+          },
+          {
+            "id": "cc3a8f09dcf6046c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11/11-7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-7"
+            }
+          },
+          {
+            "id": "7d3802cfa1abab74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11/11-8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-8"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "786a0506209cc6e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2bd3ab145366806a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8328eeb6faa1a83d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3cd336b91efa5039",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "fe040fb855eb20b8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "92da50d4cfffffb3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d807afa13fab77d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "11/11-7.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8ae2f0dcc17785be",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "11/5.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5896ede0d42bb4cb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "11/5.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d3802cfa1abab74",
+  "lastOpenFiles": [
+    "11/11-7.md",
+    "جانوری.md",
+    "12/12-7.md",
+    "12/12-6.md",
+    "11/11-8.md",
+    "11/11-6.md",
+    "11/11-5.md",
+    "11/11-4.md",
+    "11/11-3.md",
+    "11/11-2.md",
+    "11/11-1.md",
+    "10/10-7.md",
+    "10/10-6.md",
+    "10/10-5.md",
+    "10/10-4.md",
+    "10/10-3.md",
+    "10/10-2.md",
+    "10/10-1.md",
+    "IMG_20250214_102758.jpg",
+    "برگ.md",
+    "Screenshot_2025-02-14-10-17-47-647_cn.wps.xiaomi.abroad.lite-edit.jpg",
+    "Screenshot_2025-02-14-10-18-09-483_cn.wps.xiaomi.abroad.lite-edit.jpg",
+    "IMG_20250214_102016 1.jpg",
+    "IMG_20250214_102016.jpg",
+    "IMG_20250214_102003.jpg",
+    "11.md",
+    "یازدهم/Untitled.md",
+    "12",
+    "11",
+    "10",
+    "دهم/درس ششم.md",
+    "دوازدهم/درس شیشم.md",
+    "دوازدهم",
+    "یازدهم",
+    "دهم"
+  ]
+}
